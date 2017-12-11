@@ -1,0 +1,185 @@
+Aerolinea_OACI;Aerolinea
+AA;Armada Argentina
+AAB;Abelag Aviation
+AAL;American Airlines
+ACA;Air Canada
+ADB;Antonov Airlines
+AE;Ejército Argentino
+AEA;Air Europa
+AEG;Flyest
+AFL;Aeroflot Russian Airlines
+AFR;Air France
+AIO;Chief of Staff, United States Air Force
+AJT;American Jet
+ALY;Alas Uruguay
+AME;Spanish Air Force
+AMF;Ameriflight
+AMX;Aeroméxico
+ANE;Air Nostrum
+ANS;Andes Líneas Aéreas
+ANZ;Air New Zealand
+AOG;Aero VIP
+ARG;Aerolíneas Argentinas
+ARJ;Aerojet de Costa Rica, S.A.
+ARN;Aeronexus
+AUT;Austral Líneas Aéreas
+AVA;Avianca
+AZA;Alitalia
+AZN;Amaszonas
+AZU;Azul Linhas Aéreas Brasileiras
+BAW;British Airways
+BET;BETA - Brazilian Express Transportes Aéreos
+BOV;Boliviana de Aviacion
+BQB;BQB Líneas Aéreas
+BRB;BRA-Transportes Aéreos
+BRS;Brazilian Air Force
+BSK;Miami Air International
+BVR;ACM Air Charter
+CAZ;Cat Aviation
+CDA;Aerocardal
+CEF;Czech Air Force
+CGG;Walmart Aviation
+CKS;Kalitta Air
+CLX;Cargolux
+CMP;Copa Airlines
+COA;Continental Airlines
+CRK;Hong Kong Airlines
+CUB;Cubana de Aviación
+CWC;Centurion Air Cargo
+DAB;Dassault Aviation
+DAK;Ecocopter SA
+DAL;Delta Air Lines
+DAP;Aerovías DAP
+DGX;Dasnair
+DHE;DAP Helicopteros
+DLH;Lufthansa
+DPJ;Delta Private Jets
+DSM;LATAM Argentina
+DSO;Dassault Falcon Service
+EAC;Executive Air Charter
+EAL;Eastern Air Lines
+EJA;NetJets
+EVA;EVA Air
+EXK;Executive Airlines
+FAB;Fuerza Aérea Brasilera
+FAG;Fuerza Aérea Argentina
+FAP;Fuerza Aérea Paraguaya
+FAU;Fuerza Aérea Uruguaya
+FCO;Aerofrisco
+FDX;Federal Express
+FFM;Firefly
+FHX;Aeroandina
+FIX;Airfix Aviation
+FLB;Fly Linhas Aéreas
+FPG;TAG Aviation
+FPO;ASL Airlines France
+FWD;Fair Wind Air Charter
+FWL;Florida West International Airways
+GCO;Gemini Air Cargo
+GEC;Lufthansa Cargo
+GES;Gestair
+GLO;Gol Transportes Aéreos
+GN;Gendarmería Nacional
+GTI;Atlas Air
+HAX;Benair
+HEL;Helicol
+HLW;Heliworks
+HVA;Newair
+IAI;Israel Aircraft Industries
+IBE;Iberia Airlines
+JAV;Jordan Aviation
+JBA;Helijet
+JBU;JetBlue Airways
+JCS;Jetclub
+JMR;Latin American Wings
+KAL;Korean Air
+KLM;KLM
+KYE;SkyLease Cargo
+LAN;LATAM
+LAP;LATAM Paraguay
+LAU;Líneas Aéreas Suramericanas
+LDA;Lauda Air
+LDE;LADE - Líneas Aéreas Del Estado
+LEA;Unijet
+LET;Aerolíneas Ejecutivas
+LMI;Lamia Corporation S.R.L.
+LMP;Air Plus Argentina
+LMT;Almaty Aviation
+LNE;LATAM Ecuador
+LNP;Línea Aérea SAPSA
+LPE;LATAM Perú
+LRC;LACSA
+LTG;TAM Cargo
+MAF;Mission Aviation Fellowship
+MCJ;Macair Jet
+MEJ;Medjet International
+MMD;Air Alsie
+MMZ;EuroAtlantic Airways
+MPH;Martinair
+MRD;Meridian Air Cargo
+MSM;Avianca Uruguay
+MTF;Interjet
+MTJ;Metrojet
+N/A;N/A
+NWA;Northwest Airlines
+OLC;Solar Cargo
+OLS;SOL Líneas Aéreas
+OMF;Omniflys
+PAC;Polar Air Cargo
+PHA;Phoenix Air Group
+PJS;Jet Aviation
+PNA;Prefectura Naval Argentina
+PPQ;Personas Y Paquetes Por Aire
+PUA;PLUNA
+PUE;Plus Ultra Líneas Aéreas
+PVN;Peruvian Airlines
+PWA;Priester Aviation
+QAF;Qatar Amiri Flight
+QCL;LATAM Cargo Uruguay
+QTR;Qatar Airways
+RPS;Global Air Charter
+RSU;AeroSur
+RTE;Aeronorte
+SAA;South African Airways
+SAZ;Swiss Air-Ambulance
+SCM;American Jet International
+SGU;Sol del Paraguay Líneas Aéreas
+SIO;Sirio
+SJT;Swiss Jet
+SKU;Sky Airline
+SOD;Aerolíneas Sol
+SOO;Southern Air
+SRF;Transportes Aéreos San Rafael
+SRU;Star Up
+SUR;Sun Air
+SVW;Global Jet Luxembourg
+SWD;Southern Winds Airlines
+SWT;Swiftair
+SWY;Sky Jet
+TAE;TAME
+TAG;TAG Aviation USA
+TAM;TAM Linhas Aéreas
+TAO;Aeromar
+TGM;TAG Aviation Espana
+THY;Turkish Airlines
+TIW;Transcarga Intl Airways
+TJS;Tyrolean Jet Services
+TLK;Starlink Aviation
+TOW;AirTanker Services
+TPA;Avianca Cargo
+TPD;Top Speed
+TPS;TAPSA Transportes Aéreos Petroleros
+TPU;Avianca Perú
+TPX;Transportes Aéreos De Xalapa
+TVL;Travel Service
+TXB;Bell Helicopter Textron
+TXM;Taxi Aéreo de México
+UAE;Emirates Airline
+UAL;United Airlines
+UPS;United Parcel Service
+VCN;Execujet Charter
+VCV;Conviasa
+VDA;Volga-Dnepr Airlines
+VIP;TAG Aviation UK
+VRO;Aerovitro
+XER;Xerox Corporation
